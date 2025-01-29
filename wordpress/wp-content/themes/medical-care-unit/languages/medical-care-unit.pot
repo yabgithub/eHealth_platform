@@ -1,0 +1,882 @@
+# Copyright (C) 2024 Omega Themes
+# This file is distributed under the GNU General Public License v2 or later.
+msgid ""
+msgstr ""
+"Project-Id-Version: Medical Care Unit 1.2.1\n"
+"Report-Msgid-Bugs-To: https://wordpress.org/support/theme/medical-care-unit\n"
+"Last-Translator: FULL NAME <EMAIL@ADDRESS>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"POT-Creation-Date: 2024-11-09T04:22:47+00:00\n"
+"PO-Revision-Date: YEAR-MO-DA HO:MI+ZONE\n"
+"X-Generator: WP-CLI 2.11.0\n"
+"X-Domain: medical-care-unit\n"
+
+#. Theme Name of the theme
+#: style.css
+#: inc/custom-functions.php:341
+msgid "Medical Care Unit"
+msgstr ""
+
+#. Theme URI of the theme
+#: style.css
+msgid "https://www.omegathemes.com/products/free-medical-wordpress-theme"
+msgstr ""
+
+#. Description of the theme
+#: style.css
+msgid "Medical Care Unit is a professional and versatile WordPress theme specifically designed for medical and healthcare institutions. The theme comes with a clean and modern design and helps in creating a visually appealing and trustworthy online presence for clinics, medical centers, healthcare facilities, outpatient clinics, specialty clinics, urgent care, primary care, medical practitioners, healthcare providers, patient care, healthcare services, medical offices, health clinics, medical specialists, healthcare professionals, family medicine, internal medicine, surgical centers, pediatric clinics, dental clinics, mental health clinics, physical therapy clinics, wellness centers, telemedicine, healthcare management, medical diagnostics, patient treatment, medical consultation, health services, healthcare clinics, and health institutions, hospitals, doctors, and other medical professionals. The Medical Care Unit WordPress theme offers a range of features and functionalities that cater to the unique needs of the medical industry. Its intuitive layout allows for easy navigation, ensuring visitors can find the information they need quickly. The theme provides various sections and templates to showcase medical services, doctors’ profiles, appointment booking forms, and patient testimonials, creating a comprehensive and informative website for your medical practice. The theme’s responsive design ensures that your website looks great on any device, including desktops, tablets, and smartphones. Customization options are also available, allowing you to tailor the theme’s colors, fonts, and layouts to match your brand identity. Moreover, the Medical Care Unit WordPress theme integrates seamlessly with popular plugins and tools, providing additional functionality and flexibility. Whether you need to implement an online booking system, create a blog to share medical insights or integrate social media platforms for better patient engagement, this theme has you covered."
+msgstr ""
+
+#. Author of the theme
+#: style.css
+msgid "Omega Themes"
+msgstr ""
+
+#. Author URI of the theme
+#: style.css
+msgid "https://www.omegathemes.com/"
+msgstr ""
+
+#: 404.php:13
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: 404.php:23
+msgid "Maybe its out there, somewhere..."
+msgstr ""
+
+#: 404.php:24
+msgid "You can always find insightful stories on our"
+msgstr ""
+
+#: 404.php:24
+msgid "Homepage"
+msgstr ""
+
+#: 404.php:31
+msgid "Still feeling lost? Youre not alone."
+msgstr ""
+
+#: 404.php:32
+msgid "Enjoy these stories about getting lost, losing things, and finding what you never knew you were looking for."
+msgstr ""
+
+#. translators: %d: ID of a post.
+#: classes/class-walker-menu.php:76
+msgid "#%d (no title)"
+msgstr ""
+
+#: classes/class-walker-menu.php:120
+#: inc/custom-functions.php:45
+msgid "Show sub menu"
+msgstr ""
+
+#. translators: 1: title.
+#: comments.php:22
+msgid "One thought on &ldquo;%1$s&rdquo;"
+msgstr ""
+
+#. translators: 1: comment count number, 2: title.
+#: comments.php:28
+msgctxt "comments title"
+msgid "%1$s thought on &ldquo;%2$s&rdquo;"
+msgid_plural "%1$s thoughts on &ldquo;%2$s&rdquo;"
+msgstr[0] ""
+msgstr[1] ""
+
+#: comments.php:52
+msgid "Comments are closed."
+msgstr ""
+
+#. Template Name of the theme
+msgid "Front Page Template"
+msgstr ""
+
+#: functions.php:167
+msgid "Primary Menu"
+msgstr ""
+
+#: functions.php:211
+msgid "https://layout.omegathemes.com/steps/medical-care-unit/"
+msgstr ""
+
+#: functions.php:214
+msgid "https://www.omegathemes.com/products/medical-care-wordpress-theme"
+msgstr ""
+
+#: functions.php:217
+msgid "https://wordpress.org/support/theme/medical-care-unit/"
+msgstr ""
+
+#: functions.php:220
+msgid "https://wordpress.org/support/theme/medical-care-unit/reviews/#new-post"
+msgstr ""
+
+#: functions.php:223
+msgid "https://layout.omegathemes.com/medical-care-unit/"
+msgstr ""
+
+#: functions.php:226
+msgid "https://layout.omegathemes.com/steps/free-medical-care-unit/"
+msgstr ""
+
+#: header.php:36
+msgid "Skip to the content"
+msgstr ""
+
+#: inc/custom-functions.php:163
+msgid "-- Select Category --"
+msgstr ""
+
+#: inc/custom-functions.php:200
+msgid "Previous post:"
+msgstr ""
+
+#: inc/custom-functions.php:201
+msgid "Next post:"
+msgstr ""
+
+#: inc/custom-functions.php:237
+msgid "Close"
+msgstr ""
+
+#: inc/custom-functions.php:243
+#: template-parts/header/header-layout.php:28
+msgid "Horizontal"
+msgstr ""
+
+#: inc/custom-functions.php:341
+msgid "Theme: "
+msgstr ""
+
+#: inc/custom-functions.php:341
+msgid " By "
+msgstr ""
+
+#: inc/custom-functions.php:341
+msgid "OMEGA "
+msgstr ""
+
+#: inc/custom-functions.php:342
+msgid "Powered by "
+msgstr ""
+
+#: inc/custom-functions.php:342
+msgid "WordPress"
+msgstr ""
+
+#: inc/custom-functions.php:342
+msgid "WordPress."
+msgstr ""
+
+#: inc/custom-functions.php:352
+msgid "To the Top"
+msgstr ""
+
+#: inc/custom-functions.php:443
+msgid "Know More"
+msgstr ""
+
+#: inc/custom-functions.php:494
+msgid "Video"
+msgstr ""
+
+#: inc/custom-functions.php:497
+msgid "Audio"
+msgstr ""
+
+#: inc/custom-functions.php:500
+msgid "Gallery"
+msgstr ""
+
+#: inc/custom-functions.php:503
+msgid "Quote"
+msgstr ""
+
+#: inc/custom-functions.php:506
+#: inc/metabox.php:62
+msgid "Image"
+msgstr ""
+
+#: inc/customizer/additional-woocommerce.php:13
+msgid "Additional Woocommerce Options"
+msgstr ""
+
+#: inc/customizer/additional-woocommerce.php:29
+msgid "Product Per Column"
+msgstr ""
+
+#: inc/customizer/additional-woocommerce.php:49
+msgid "Product Per Page"
+msgstr ""
+
+#: inc/customizer/additional-woocommerce.php:69
+msgid "Enable Related Products"
+msgstr ""
+
+#: inc/customizer/colors.php:21
+msgid "Text Color"
+msgstr ""
+
+#: inc/customizer/colors.php:39
+msgid "Border Color"
+msgstr ""
+
+#: inc/customizer/custom-addon.php:10
+msgid "Customizer Custom Settings"
+msgstr ""
+
+#: inc/customizer/custom-addon.php:30
+msgid "Enable Pagination"
+msgstr ""
+
+#: inc/customizer/custom-addon.php:46
+msgid "Pagination Style"
+msgstr ""
+
+#: inc/customizer/custom-addon.php:50
+msgid "Numeric (Page Numbers)"
+msgstr ""
+
+#: inc/customizer/custom-addon.php:51
+msgid "Newer/Older (Previous/Next)"
+msgstr ""
+
+#: inc/customizer/custom-addon.php:66
+msgid "Pagination Alignment"
+msgstr ""
+
+#: inc/customizer/custom-addon.php:70
+#: inc/customizer/custom-addon.php:90
+#: inc/customizer/custom-addon.php:131
+#: inc/customizer/footer.php:68
+msgid "Center"
+msgstr ""
+
+#: inc/customizer/custom-addon.php:71
+#: inc/customizer/custom-addon.php:91
+#: inc/customizer/custom-addon.php:132
+#: inc/customizer/footer.php:69
+msgid "Right"
+msgstr ""
+
+#: inc/customizer/custom-addon.php:72
+#: inc/customizer/custom-addon.php:92
+#: inc/customizer/custom-addon.php:130
+#: inc/customizer/footer.php:67
+msgid "Left"
+msgstr ""
+
+#: inc/customizer/custom-addon.php:86
+msgid "Breadcrumb Alignment"
+msgstr ""
+
+#: inc/customizer/custom-addon.php:106
+msgid "Breadcrumb Font Size"
+msgstr ""
+
+#: inc/customizer/custom-addon.php:126
+msgid "Single Page Content Alignment"
+msgstr ""
+
+#: inc/customizer/customizer.php:31
+msgid "Color Options"
+msgstr ""
+
+#: inc/customizer/customizer.php:52
+msgid "General Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:60
+msgid "Color Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:69
+#: inc/customizer/footer.php:12
+msgid "Footer Setting"
+msgstr ""
+
+#: inc/customizer/customizer.php:78
+msgid "Frontpage Settings"
+msgstr ""
+
+#: inc/customizer/customizer.php:87
+msgid "Theme Addons"
+msgstr ""
+
+#: inc/customizer/customizer.php:96
+msgid "Theme Options"
+msgstr ""
+
+#: inc/customizer/customizer.php:110
+msgid "Logo width"
+msgstr ""
+
+#: inc/customizer/customizer.php:111
+msgid "Specify the range for logo size with a minimum of 200px and a maximum of 700px, in increments of 20px."
+msgstr ""
+
+#: inc/customizer/customizer.php:131
+msgid "Medical Care Pro"
+msgstr ""
+
+#: inc/customizer/customizer.php:132
+msgid "Upgrade To Pro"
+msgstr ""
+
+#: inc/customizer/default.php:31
+msgid "All rights reserved."
+msgstr ""
+
+#: inc/customizer/default.php:33
+msgid "Book Appointment"
+msgstr ""
+
+#: inc/customizer/default.php:49
+msgid "SERVICE WE PROVIDE"
+msgstr ""
+
+#: inc/customizer/default.php:50
+msgid "Medical Services to Improve Your Health and Wellbeing."
+msgstr ""
+
+#: inc/customizer/default.php:66
+msgid "To The Top"
+msgstr ""
+
+#: inc/customizer/footer.php:28
+msgid "Enable Footer"
+msgstr ""
+
+#: inc/customizer/footer.php:43
+msgid "Footer Column Layout"
+msgstr ""
+
+#: inc/customizer/footer.php:47
+msgid "One Column"
+msgstr ""
+
+#: inc/customizer/footer.php:48
+msgid "Two Column"
+msgstr ""
+
+#: inc/customizer/footer.php:49
+msgid "Three Column"
+msgstr ""
+
+#: inc/customizer/footer.php:63
+msgid "Footer Widget Title Alignment"
+msgstr ""
+
+#: inc/customizer/footer.php:83
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: inc/customizer/footer.php:98
+msgid "Copyright Font Size"
+msgstr ""
+
+#: inc/customizer/footer.php:114
+msgid "Footer Widget Background Color"
+msgstr ""
+
+#: inc/customizer/footer.php:115
+msgid "It will change the complete footer widget background color."
+msgstr ""
+
+#: inc/customizer/footer.php:125
+msgid "Footer Widget Background Image"
+msgstr ""
+
+#: inc/customizer/footer.php:138
+msgid "Enable To The Top"
+msgstr ""
+
+#: inc/customizer/footer.php:153
+msgid "To The Top Text"
+msgstr ""
+
+#: inc/customizer/global-color-setting.php:13
+msgid "Global Color Settings"
+msgstr ""
+
+#: inc/customizer/global-color-setting.php:32
+msgid "Global Color"
+msgstr ""
+
+#: inc/customizer/header-button.php:13
+msgid "Header Settings"
+msgstr ""
+
+#: inc/customizer/header-button.php:29
+msgid "Enable Header Button"
+msgstr ""
+
+#: inc/customizer/header-button.php:44
+msgid "Header Button Text"
+msgstr ""
+
+#: inc/customizer/header-button.php:59
+msgid "Header Button Link"
+msgstr ""
+
+#: inc/customizer/header-button.php:74
+msgid "Menu Font Size"
+msgstr ""
+
+#: inc/customizer/header-button.php:94
+msgid "Menu Text Transform"
+msgstr ""
+
+#: inc/customizer/header-button.php:98
+msgid "Capitalize"
+msgstr ""
+
+#: inc/customizer/header-button.php:99
+msgid "Uppercase"
+msgstr ""
+
+#: inc/customizer/header-button.php:100
+msgid "Lowercase"
+msgstr ""
+
+#: inc/customizer/header-button.php:114
+msgid "Enable Sticky Header"
+msgstr ""
+
+#: inc/customizer/header-button.php:129
+msgid "Enable Preloader"
+msgstr ""
+
+#: inc/customizer/homepage-content.php:13
+msgid "Slider Settings"
+msgstr ""
+
+#: inc/customizer/homepage-content.php:29
+msgid "Enable / Disable Title"
+msgstr ""
+
+#: inc/customizer/homepage-content.php:44
+msgid "Enable / Disable Tagline"
+msgstr ""
+
+#: inc/customizer/homepage-content.php:59
+msgid "Enable Slider"
+msgstr ""
+
+#: inc/customizer/homepage-content.php:74
+msgid "Slider Post Category"
+msgstr ""
+
+#: inc/customizer/homepage-content.php:83
+msgid "Category Carousel Settings"
+msgstr ""
+
+#: inc/customizer/homepage-content.php:99
+msgid "Enable Category Section"
+msgstr ""
+
+#: inc/customizer/homepage-content.php:114
+msgid "Main Title"
+msgstr ""
+
+#: inc/customizer/homepage-content.php:129
+msgid "Title"
+msgstr ""
+
+#: inc/customizer/homepage-content.php:146
+msgid "Category "
+msgstr ""
+
+#: inc/customizer/layout-setting.php:13
+msgid "Global Layout Settings"
+msgstr ""
+
+#: inc/customizer/layout-setting.php:29
+msgid "Global Sidebar Layout"
+msgstr ""
+
+#: inc/customizer/layout-setting.php:33
+msgid "Right Sidebar"
+msgstr ""
+
+#: inc/customizer/layout-setting.php:34
+msgid "Left Sidebar"
+msgstr ""
+
+#: inc/customizer/layout-setting.php:35
+msgid "No Sidebar"
+msgstr ""
+
+#: inc/customizer/post.php:13
+msgid "Single Meta Information Settings"
+msgstr ""
+
+#: inc/customizer/post.php:29
+msgid "Enable Posts Author"
+msgstr ""
+
+#: inc/customizer/post.php:44
+msgid "Enable Posts Date"
+msgstr ""
+
+#: inc/customizer/post.php:59
+#: inc/customizer/post.php:129
+msgid "Enable Posts Category"
+msgstr ""
+
+#: inc/customizer/post.php:74
+msgid "Enable Posts Tags"
+msgstr ""
+
+#: inc/customizer/post.php:83
+msgid "Archive Meta Information Settings"
+msgstr ""
+
+#: inc/customizer/post.php:99
+msgid "Enable sticky Post"
+msgstr ""
+
+#: inc/customizer/post.php:114
+msgid "Enable Posts Image"
+msgstr ""
+
+#: inc/customizer/post.php:144
+msgid "Enable Posts Title"
+msgstr ""
+
+#: inc/customizer/post.php:159
+msgid "Enable Posts Content"
+msgstr ""
+
+#: inc/customizer/post.php:174
+msgid "Enable Posts Button"
+msgstr ""
+
+#: inc/customizer/post.php:189
+msgid "Blog Post Excerpt limit"
+msgstr ""
+
+#: inc/customizer/typography.php:13
+msgid "Typography Settings"
+msgstr ""
+
+#: inc/customizer/typography.php:45
+msgid "General Content font"
+msgstr ""
+
+#: inc/customizer/typography.php:59
+msgid "General heading font"
+msgstr ""
+
+#: inc/get-started/get-started.php:10
+#: inc/get-started/get-started.php:38
+msgid "Omega Options"
+msgstr ""
+
+#: inc/get-started/get-started.php:36
+msgid "Thank You for installing Medical Care Unit Theme!"
+msgstr ""
+
+#: inc/get-started/get-started.php:41
+msgid "Documentation"
+msgstr ""
+
+#: inc/get-started/get-started.php:44
+msgid "Upgrade to Pro"
+msgstr ""
+
+#: inc/get-started/get-started.php:47
+msgid "Premium Demo"
+msgstr ""
+
+#: inc/get-started/get-started.php:49
+msgid "Dismiss"
+msgstr ""
+
+#: inc/get-started/get-started.php:103
+msgid "Edit With Customizer - Click Here"
+msgstr ""
+
+#: inc/get-started/get-started.php:111
+msgid "If you are facing any issue with our theme, submit a support ticket here."
+msgstr ""
+
+#: inc/get-started/get-started.php:114
+msgid "Lite Theme Support."
+msgstr ""
+
+#: inc/get-started/get-started.php:120
+msgid "Please write a review if you appreciate the theme."
+msgstr ""
+
+#: inc/get-started/get-started.php:123
+msgid "Rank this topic."
+msgstr ""
+
+#: inc/get-started/get-started.php:129
+msgid "Follow our lite theme documentation to set up our lite theme as seen in the screenshot."
+msgstr ""
+
+#: inc/get-started/get-started.php:132
+msgid "Lite Documentation."
+msgstr ""
+
+#: inc/get-started/get-started.php:140
+msgid "Premium Features Include:"
+msgstr ""
+
+#: inc/get-started/get-started.php:145
+msgid "One Click Demo Content Importer"
+msgstr ""
+
+#: inc/get-started/get-started.php:148
+msgid "Woocommerce Plugin Compatibility"
+msgstr ""
+
+#: inc/get-started/get-started.php:151
+msgid "Multiple Section for the templates"
+msgstr ""
+
+#: inc/get-started/get-started.php:154
+msgid "For a better user experience, make the top of your menu sticky."
+msgstr ""
+
+#: inc/get-started/get-started.php:159
+msgid "Upgrade Pro $40"
+msgstr ""
+
+#: inc/get-started/get-started.php:165
+msgid "Kindly view the premium themes live demo."
+msgstr ""
+
+#: inc/get-started/get-started.php:168
+msgid "Live Demo."
+msgstr ""
+
+#: inc/get-started/get-started.php:172
+msgid "Follow our pro theme documentation to set up our premium theme as seen in the screenshot."
+msgstr ""
+
+#: inc/get-started/get-started.php:175
+msgid "Pro Documentation."
+msgstr ""
+
+#: inc/metabox.php:12
+msgid "Global sidebar"
+msgstr ""
+
+#: inc/metabox.php:17
+msgid "Right sidebar"
+msgstr ""
+
+#: inc/metabox.php:22
+msgid "Left sidebar"
+msgstr ""
+
+#: inc/metabox.php:27
+msgid "No sidebar"
+msgstr ""
+
+#: inc/metabox.php:36
+msgid "Category Image"
+msgstr ""
+
+#: inc/metabox.php:37
+#: inc/metabox.php:70
+#: inc/metabox.php:77
+msgid "Upload Image"
+msgstr ""
+
+#: inc/metabox.php:38
+#: inc/metabox.php:71
+#: inc/metabox.php:78
+msgid "Remove Image"
+msgstr ""
+
+#: inc/pagination.php:26
+msgid "&laquo; Newer"
+msgstr ""
+
+#: inc/pagination.php:27
+msgid "Older &raquo;"
+msgstr ""
+
+#: inc/pagination.php:28
+#: inc/pagination.php:38
+msgid "Posts navigation"
+msgstr ""
+
+#: inc/pagination.php:35
+msgid "&laquo; Previous"
+msgstr ""
+
+#: inc/pagination.php:36
+msgid "Next &raquo;"
+msgstr ""
+
+#. translators: used between list items, there is a space after the comma
+#: inc/template-tags.php:278
+msgctxt "list item separator"
+msgid ", "
+msgstr ""
+
+#. translators: %s: Name of current post. Only visible to screen readers
+#: inc/template-tags.php:300
+msgid "Edit <span class=\"screen-reader-text\">%s</span>"
+msgstr ""
+
+#: inc/widgets/widgets.php:11
+msgid "Main Sidebar"
+msgstr ""
+
+#: inc/widgets/widgets.php:13
+#: inc/widgets/widgets.php:33
+msgid "Add widgets here."
+msgstr ""
+
+#: inc/widgets/widgets.php:26
+msgid "One"
+msgstr ""
+
+#: inc/widgets/widgets.php:27
+msgid "Two"
+msgstr ""
+
+#: inc/widgets/widgets.php:28
+msgid "Three"
+msgstr ""
+
+#: inc/widgets/widgets.php:31
+msgid "Footer Widget "
+msgstr ""
+
+#: lib/breadcrumbs/breadcrumbs.php:308
+msgid "Browse:"
+msgstr ""
+
+#: lib/breadcrumbs/breadcrumbs.php:309
+msgctxt "breadcrumbs aria label"
+msgid "Breadcrumbs"
+msgstr ""
+
+#: lib/breadcrumbs/breadcrumbs.php:310
+msgid "Home"
+msgstr ""
+
+#: lib/breadcrumbs/breadcrumbs.php:311
+msgid "404 Not Found"
+msgstr ""
+
+#: lib/breadcrumbs/breadcrumbs.php:312
+msgid "Archives"
+msgstr ""
+
+#. Translators: %s is the search query.
+#: lib/breadcrumbs/breadcrumbs.php:314
+msgid "Search results for: %s"
+msgstr ""
+
+#. Translators: %s is the page number.
+#: lib/breadcrumbs/breadcrumbs.php:316
+msgid "Page %s"
+msgstr ""
+
+#. Translators: %s is the page number.
+#: lib/breadcrumbs/breadcrumbs.php:318
+msgid "Comment Page %s"
+msgstr ""
+
+#. Translators: Minute archive title. %s is the minute time format.
+#: lib/breadcrumbs/breadcrumbs.php:320
+msgid "Minute %s"
+msgstr ""
+
+#. Translators: Weekly archive title. %s is the week date format.
+#: lib/breadcrumbs/breadcrumbs.php:322
+msgid "Week %s"
+msgstr ""
+
+#: lib/breadcrumbs/breadcrumbs.php:782
+msgctxt "minute and hour archives time format"
+msgid "g:i a"
+msgstr ""
+
+#: lib/breadcrumbs/breadcrumbs.php:799
+msgctxt "minute archives time format"
+msgid "i"
+msgstr ""
+
+#: lib/breadcrumbs/breadcrumbs.php:816
+msgctxt "hour archives time format"
+msgid "g a"
+msgstr ""
+
+#: lib/breadcrumbs/breadcrumbs.php:832
+#: lib/breadcrumbs/breadcrumbs.php:861
+#: lib/breadcrumbs/breadcrumbs.php:888
+#: lib/breadcrumbs/breadcrumbs.php:915
+#: lib/breadcrumbs/breadcrumbs.php:1255
+msgctxt "yearly archives date format"
+msgid "Y"
+msgstr ""
+
+#: lib/breadcrumbs/breadcrumbs.php:833
+#: lib/breadcrumbs/breadcrumbs.php:889
+#: lib/breadcrumbs/breadcrumbs.php:1259
+msgctxt "monthly archives date format"
+msgid "F"
+msgstr ""
+
+#: lib/breadcrumbs/breadcrumbs.php:834
+#: lib/breadcrumbs/breadcrumbs.php:1263
+msgctxt "daily archives date format"
+msgid "j"
+msgstr ""
+
+#: lib/breadcrumbs/breadcrumbs.php:862
+msgctxt "weekly archives date format"
+msgid "W"
+msgstr ""
+
+#: searchform.php:11
+msgid "Search..."
+msgstr ""
+
+#: template-parts/content-none.php:11
+msgid "Nothing Found"
+msgstr ""
+
+#. translators: %1$s: Link to create a new post.
+#: template-parts/content-none.php:22
+msgid "Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: template-parts/content-none.php:33
+msgid "Sorry, but nothing matched your search terms. Please try again with some different keywords."
+msgstr ""
+
+#: template-parts/content-none.php:40
+msgid "It seems we can’t find what you’re looking for. Perhaps searching can help."
+msgstr ""
+
+#: template-parts/content-single.php:26
+msgid "Medical Care Unit Default Image"
+msgstr ""
+
+#. translators: %s: Name of current post.
+#: template-parts/content-single.php:67
+msgid "Read More %s <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: template-parts/content-single.php:72
+#: template-parts/content.php:82
+msgid "Pages:"
+msgstr ""
+
+#: template-parts/content.php:89
+msgid "Read More"
+msgstr ""
